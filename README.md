@@ -1,2 +1,2 @@
-## To Run(test apis)
-### type command: python manage.py test
+### To Run(test api)
+#### type command: python manage.py test
